@@ -2,6 +2,13 @@
 
 Miscellaneous shapes and graphics for re-use. Most should be in PNG and SVG format.
 
+## Includes
+
+Old Key
+* 5 background styles
+* SVG Vector version
+<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/old-key/old-key-001.png">
+
 
 ## Author
 
