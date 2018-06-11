@@ -9,6 +9,20 @@ Old Key
 * SVG Vector version
 <img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/old-key/old-key-001.png">
 
+<p style="clear: left;">Puzzle Piece</p>
+* Blue and White on Blue (Reversed)
+* SVG Vector version
+<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/puzzle-piece/puzzle-piece-blue.png">
+<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/puzzle-piece/puzzle-piece-blue-reversed.png">
+
+<p style="clear: left;">Star</p>
+* Yellow and White on Yellow (Reversed)
+* SVG Vector version
+<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/star/star-yellow.png">
+<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/star/star-yellow-reversed.png">
+
+
+<p style="clear: left;">&nbsp;</p>
 
 ## Author
 
