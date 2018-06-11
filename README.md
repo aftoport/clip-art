@@ -7,22 +7,20 @@ Miscellaneous shapes and graphics for re-use. Most should be in PNG and SVG form
 Old Key
 * 5 background styles
 * SVG Vector version
-<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/old-key/old-key-001.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/old-key/old-key-001.png">
 
-<p style="clear: left;">Puzzle Piece</p>
+Puzzle Piece
 * Blue and White on Blue (Reversed)
 * SVG Vector version
-<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/puzzle-piece/puzzle-piece-blue.png">
-<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/puzzle-piece/puzzle-piece-blue-reversed.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/puzzle-piece/puzzle-piece-blue.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/puzzle-piece/puzzle-piece-blue-reversed.png">
 
-<p style="clear: left;">Star</p>
+Star
 * Yellow and White on Yellow (Reversed)
 * SVG Vector version
-<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/star/star-yellow.png">
-<img align="left" width="100" src="https://github.com/aftoport/clip-art/blob/master/star/star-yellow-reversed.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/star/star-yellow.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/star/star-yellow-reversed.png">
 
-
-<p style="clear: left;">&nbsp;</p>
 
 ## Author
 
