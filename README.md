@@ -3,6 +3,16 @@
 Miscellaneous shapes and graphics for re-use. Most should be in PNG and SVG format.
 
 ## Includes
+Warm Fuzzies
+* 5 Fuzzies in different colors
+* PNG format with transparent background
+<img src="https://github.com/aftoport/clip-art/blob/master/warm-fuzzies/warm-fuzzies-group.jpg">
+
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/warm-fuzzies/warm-fuzzy-blue-hd.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/warm-fuzzies/warm-fuzzy-green-hd.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/warm-fuzzies/warm-fuzzy-purple-hd.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/warm-fuzzies/warm-fuzzy-red-hd.png">
+<img width="100" src="https://github.com/aftoport/clip-art/blob/master/warm-fuzzies/warm-fuzzy-yellow-hd.png">
 
 Old Key
 * 5 background styles
